@@ -7,7 +7,7 @@ Reference notes for Pharmacology and Medicinal Chemistry.
 * **Last Update:** March 14, 2026
 * **Objective:** Maintain stability under high-pressure environments.
 * 
-"If the logic is clear, star this repo on right side corner top."
+"If the logic is clear, star this repo on right side on first page ."
 ---
 
 ### Analysis & Dosage:
