@@ -6,7 +6,8 @@ Reference notes for Pharmacology and Medicinal Chemistry.
 ### Protocol Status: ACTIVE
 * **Last Update:** March 14, 2026
 * **Objective:** Maintain stability under high-pressure environments.
-
+* 
+"If the logic is clear, star this repo on right side corner top."
 ---
 
 ### Analysis & Dosage:
